@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pankaj Kumar Vishwakarma
 - 👀 I’m interested in coding and learning development
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently sworking  as software engineer  at smartworks
+-  💞️ I’m looking to collaborate on Generative AI  module
 
 - 
   <div> 
