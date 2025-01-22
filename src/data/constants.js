@@ -10,7 +10,7 @@ export const Bio = {
     "I'm a highly motivated and versatile individual with a strong aptitude for problem-solving and a deep commitment to continuous development. I enjoy tackling complex challenges, analyzing data, and developing effective solutions. I'm a firm believer in lifelong learning and actively pursue opportunities to expand my knowledge and skillset.",
   github: "https://github.com/pk-arma",
   gmail: "pankajkyn@gmail.com",
-  resume:"https://drive.google.com/file/d/1BX3fbPA17t5dbXseqEuX_7EgQA0Bxg8m/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1bc4JeLqF0zw3E0nYzFUCBi2qZb-tHMoL/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/pk-arma",
 
 };
@@ -122,7 +122,7 @@ export const skills = [
 
 export const experiences = [
   {
-    id: 5,
+    id: 0,
     img: smartworks,
     role: "React js developer",
     company: "Smartworks",
@@ -138,7 +138,7 @@ export const experiences = [
   },
   
   {
-    id: 0,
+    id: 1,
     img: newtonSchool,
     role: "Full stack developer Intern",
     company: "Newton School",
@@ -161,11 +161,11 @@ export const education = [
   {
     id: 0,
     img: "https://raw.githubusercontent.com/anshita005/My-Portfolio/refs/heads/main/witkmh24.rj3.webp",
-    school: "ABES Engineering College",
-    date: "Dec 2020 - July 2024",
-    grade: " 7.14 CGPA",
-    desc: "I have completed 4 years and have a CGPA of 7.14 . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Technology - BTech, Computer Science",
+    school: "Allahabad state university",
+    date: "July 2018 - April 2021",
+    grade: "7.14 CGPA",
+    desc: "I have completed a 3-year degree program in Mathematics with a CGPA of 7.14. My coursework included topics such as Calculus, Algebra, Geometry, Differential Equations, Real Analysis, and Linear Algebra, among others.",
+    degree: "Bachelor of Science (B.Sc.) in Mathematics",
   },
 ];
 
@@ -204,8 +204,8 @@ export const projects = [
      
     ],
     category: "web app",
-    github: "https://github.com/anshita005/My-Portfolio",
-    webapp: "https://github.com/anshita005",
+    github: "",
+    webapp: "",
   },
   {
     id: 9,
@@ -225,8 +225,8 @@ export const projects = [
   
     ],
     category: "web app",
-    github: "https://github.com/anshita005/SpendWise",
-    webapp: "https://github.com/anshita005/SpendWise",
+    github: "",
+    webapp: "",
   },
   {
     id: 0,
@@ -237,8 +237,8 @@ export const projects = [
       "https://raw.githubusercontent.com/anshita005/Gemini-Clone-Project/main/Screenshot%202024-11-02%20175452.png",
     tags: ["React Js", "Javascript", "GeminiAPI", "CSS3"],
     category: "web app",
-    github: "https://github.com/anshita005/Gemini-Clone-Project",
-    webapp: "https://github.com/anshita005/Gemini-Clone-Project",
+    github: "",
+    webapp: "",
   },
   
 ];
